@@ -7,3 +7,9 @@ The following image shows the web application's appearance and functionality:
 
 ![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](./Develop/assets/Mockup.png)
 
+## Website
+
+Link to website
+
+https://smullock.github.io/Challenge1/#search-engine-optimization
+
